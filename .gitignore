@@ -1,0 +1,18 @@
+# bibliotecas (baixar conforme libs/LEIAME.txt)
+libs/*.jar
+
+# saída de compilação
+out/
+target/
+build/
+*.class
+
+# IDEs / SO
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
